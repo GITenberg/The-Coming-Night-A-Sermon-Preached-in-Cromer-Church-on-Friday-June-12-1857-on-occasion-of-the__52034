@@ -1,0 +1,29 @@
+_repo: The-Coming-Night-A-Sermon-Preached-in-Cromer-Church-on-Friday-June-12-1857-on-occasion-of-the__52034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Funeral sermons'
+- !lcsh 'Gurney, Anna, 1795-1857 -- Death and burial -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- GITenberg
+title: 'The Coming Night
+
+  A Sermon Preached in Cromer Church, on Friday, June 12, 1857, on occasion of the
+  death of Anna Gurney'
+url: http://www.gutenberg.org/ebooks/52034
